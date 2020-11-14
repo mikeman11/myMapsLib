@@ -1,3 +1,0 @@
-# myMapsLib
-# check
-# checke2
